@@ -3,22 +3,11 @@
             "league": "Premier League",
             "date": "Mar 26",
             "time": "1 - 0",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/4758.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/4739.png",
+            "himg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
+            "aimg": "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/fotlive.jpg",
             "teams" : "Egypt 1-0 Senegal",
              "hteam" : "Egypt",
             "ateam" : "Senegal",
             "link": "https://akflutter.files.wordpress.com/2022/03/highlights__liverpool_fc_legends_1-2_barcelona_legends___gerrard_and_rivaldo_score_at_anfield281080p29.mp4"
-        },
-           {
-            "league": "Friend",
-            "date": "Mar 26",
-            "time": "2 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6709_small.png",
-            "teams" : "France 2-1 Ivory",
-                "hteam" : "Egypt",
-            "ateam" : "Senegal",
-            "link": "https://ncsk16.koralast.com/UpFiles/2022/3/25/42/221206/720p.m3u8"
         }
     ]
