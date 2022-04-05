@@ -9,5 +9,17 @@
              "hteam" : "Egypt",
             "ateam" : "Senegal",
             "link": "https://cdn87442.koralast.com/UpFiles/2022/3/31/42/221586/720p.m3u8"
+        },
+{
+            "league": "Premier League",
+            "date": "Mar 5",
+            "time": "3 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_xsmall.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_xsmall.png",
+            "teams" : "Crystal Place 3-0 Arsenal",
+             "hteam" : "Crystal Place",
+            "ateam" : "Arsenal",
+            "link": "https://cdn6000.koralast.com/UpFiles/2022/4/4/42/222123/720p.m3u8"
         }
     ]
+    
