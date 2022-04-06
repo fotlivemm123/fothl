@@ -1,5 +1,28 @@
 [
-         {
+          {
+            "league": "Champion League",
+            "date": "April 6",
+            "time": "1-0",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/17.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2836.png",
+            "teams" : "Man City 1-0 ATK",
+             "hteam" : "Man City",
+            "ateam" : "AT Madrid",
+            "link": "https://cdn6000.koralast.com/UpFiles/2022/4/5/42/222192/720p.m3u8"
+        },
+
+{
+            "league": "Champion League",
+            "date": "April 6",
+            "time": "1-3",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/3006.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/44.png",
+            "teams" : "Benfica 1-3 Liverpool",
+             "hteam" : "Benfica",
+            "ateam" : "Liverpool",
+            "link":"https://cdn6000.koralast.com/UpFiles/2022/4/5/42/222186/720p.m3u8"
+        },   
+   {
             "league": "ligue 1",
             "date": "April 4",
             "time": "5 - 1",
@@ -43,30 +66,8 @@
              "hteam" : "AC Milan",
             "ateam" : "Bologna",
             "link": "https://cdn6000.koralast.com/UpFiles/2022/4/4/34/222120/720p.m3u8"
-        },
-        {
-            "league": "Champion League",
-            "date": "April 6",
-            "time": "1-0",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/17.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2836.png",
-            "teams" : "Man City 1-0 ATK",
-             "hteam" : "Man City",
-            "ateam" : "AT Madrid",
-            "link": "https://cdn6000.koralast.com/UpFiles/2022/4/5/42/222192/720p.m3u8"
-        },
-
-{
-            "league": "Champion League",
-            "date": "April 6",
-            "time": "1-3",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/3006.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/44.png",
-            "teams" : "Benfica 1-3 Liverpool",
-             "hteam" : "Benfica",
-            "ateam" : "Liverpool",
-            "link":"https://cdn6000.koralast.com/UpFiles/2022/4/5/42/222186/720p.m3u8"
         }
+ 
 
     ]
 
