@@ -54,7 +54,20 @@
              "hteam" : "Man City",
             "ateam" : "AT Madrid",
             "link": "https://cdn6000.koralast.com/UpFiles/2022/4/5/42/222192/720p.m3u8"
+        },
+
+{
+            "league": "Champions League",
+            "date": "April 6",
+            "time": "1 - 3",
+            "himg": "https://redditz.soccerstreamlinks.com/images/teams/3006.png",
+            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/44.png",
+            "teams" : "Benfica 1-0 Liverpool",
+             "hteam" : "Benfica",
+            "ateam" : "Liverpool",
+            "link":"https://cdn6000.koralast.com/UpFiles/2022/4/5/42/222186/720p.m3u8",
         }
+
     ]
 
     
