@@ -104,10 +104,20 @@
             "teams" : "Villareal 1-0 Bayern",
              "hteam" : "Villareal",
             "ateam" : "Bayern",
-            "link":"https://youtu.be/BVmrTU58rJw"
-        }
             
-      ]
+             "link":[
+               {
+                  "type": "720",
+                "livelink":"https://cdn610002.koralast.com/UpFiles/2022/4/7/34/222297/720p.m3u8"
+                },
+                {
+                    "type": "360",
+                "livelink":"https://cdn610002.koralast.com/UpFiles/2022/4/7/34/222297/360p.m3u8"
+                }
+            ]
+        
+            
+ 
 
     
 
