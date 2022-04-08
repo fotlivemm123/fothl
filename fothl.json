@@ -93,29 +93,8 @@
              "hteam" : "Chelsea",
             "ateam" : "Real Madrid",
             "link":"https://cdn610002.koralast.com/UpFiles/2022/4/6/34/222267/360p.m3u8"
-        },
+        }
 
-{
-            "league": "Champion League",
-            "date": "April 7",
-            "time": "1-0",
-            "himg": "https://redditz.soccerstreamlinks.com/images/teams/2819.png",
-            "aimg": "https://redditz.soccerstreamlinks.com/images/teams/2672.png",
-            "teams" : "Villareal 1-0 Bayern",
-             "hteam" : "Villareal",
-            "ateam" : "Bayern",
-            
-             "link":[
-               {
-                  "type": "720",
-                "livelink":"https://cdn610002.koralast.com/UpFiles/2022/4/7/34/222297/720p.m3u8"
-                },
-                {
-                    "type": "360",
-                "livelink":"https://cdn610002.koralast.com/UpFiles/2022/4/7/34/222297/360p.m3u8"
-                }
-            ]
-         }
 
         ]
         
