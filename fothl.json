@@ -87,6 +87,30 @@
             "link": "https://cdn610002.koralast.com/UpFiles/2022/4/8/34/222380/720p.m3u8"
         },
 
+{
+            "league": "Laliga",
+            "date": "April 9",
+            "time": "1-0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "teams" : "Mallorca 1-0 AT Madrid",
+             "hteam" : "Mallorca",
+            "ateam" : "AT Madrid",
+            "link": "https://cdn610002.koralast.com/UpFiles/2022/4/9/34/222448/720p.m3u8"
+        },
+
+{
+            "league": "Laliga",
+            "date": "April 10",
+            "time": "2-0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+            "teams" : "Real Madrid 2-0 Getafe",
+             "hteam" : "Real Madrid",
+            "ateam" : "Getafe",
+            "link": "https://cdn610002.koralast.com/UpFiles/2022/4/9/34/222542/720p.m3u8"
+        },
+    
     
 {
             "league": "Bundesliga",
