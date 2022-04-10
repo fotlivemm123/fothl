@@ -36,7 +36,19 @@
             "ateam" : "AC Milan",
             "link": "https://cdn610002.koralast.com/UpFiles/2022/4/10/34/222720/720p.m3u8"
         },
-   
+ {
+            "league": "Laliga",
+            "date": "Aapril 10",
+            "time": "1-2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
+            "teams" : "Elche 1-2 Real Sociedad",
+             "hteam" : "Elche",
+            "ateam" : "Real Sociedad",
+            "link": "https://cdn610002.koralast.com/UpFiles/2022/4/10/34/222703/720p.m3u8"
+        },
+    
+  
 {
             "league": "Premier League",
             "date": "April 10",
