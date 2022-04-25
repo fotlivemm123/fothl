@@ -44,6 +44,52 @@
             "ateam" : "West Ham",
             "link": "https://ccddnn610003.koralast.com/UpFiles/2022/4/24/42/224241/360p.m3u8"
         },
+{
+            "league": "360 resolution",
+            "date": "April 23",
+            "time": "0 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+            "teams" : "Brentford 0-0 Tottenham",
+             "hteam" : "Brentford",
+            "ateam" : "Tottenham",
+            "link": "https://ccddnn610003.koralast.com/UpFiles/2022/4/23/34/224077/360p.m3u8"
+        },
+{
+            "league": "Premier League",
+            "date": "April 23",
+            "time": "0 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+            "teams" : "Leicester 0-0 Aston Villa",
+             "hteam" : "Leicester",
+            "ateam" : "Aston Villa",
+            "link": "https://cdn40000.koralast.com/UpFiles/2022/4/23/34/224003/360p.m3u8"
+        },
+
+{
+            "league": "Premier League",
+            "date": "April 23",
+            "time": "5 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
+            "teams" : "Man City 5-1 Watford",
+             "hteam" : "Man City",
+            "ateam" : "Watford",
+            "link": "https://ccddnn610003.koralast.com/UpFiles/2022/4/23/42/224000/360p.m3u8"
+        },
+
+{
+            "league": "Premier League",
+            "date": "April 23",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+            "teams" : "Norwich 0-3 Newcastle",
+             "hteam" : "Norwich",
+            "ateam" : "Newcastle",
+            "link": "https://ccddnn610003.koralast.com/UpFiles/2022/4/23/42/223996/360p.m3u8"
+        },
     
 {
             "league": "Bundesliga",
@@ -178,53 +224,6 @@
             "link": "https://ccddnn610003.koralast.com/UpFiles/2022/4/24/42/224309/360p.m3u8"
         },
 
-        
-{
-            "league": "360 resolution",
-            "date": "April 23",
-            "time": "0 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
-            "teams" : "Brentford 0-0 Tottenham",
-             "hteam" : "Brentford",
-            "ateam" : "Tottenham",
-            "link": "https://cdn40000.koralast.com/UpFiles/2022/4/23/34/224077/360p.m3u8"
-        },
-{
-            "league": "Premier League",
-            "date": "April 23",
-            "time": "0 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-            "teams" : "Leicester 0-0 Aston Villa",
-             "hteam" : "Leicester",
-            "ateam" : "Aston Villa",
-            "link": "https://cdn40000.koralast.com/UpFiles/2022/4/23/34/224003/360p.m3u8"
-        },
-
-{
-            "league": "Premier League",
-            "date": "April 23",
-            "time": "5 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
-            "teams" : "Man City 5-1 Watford",
-             "hteam" : "Man City",
-            "ateam" : "Watford",
-            "link": "https://ccddnn610002.koralast.com/UpFiles/2022/4/23/42/224000/360p.m3u8"
-        },
-
-{
-            "league": "Premier League",
-            "date": "April 23",
-            "time": "0 - 3",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9850.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-            "teams" : "Norwich 0-3 Newcastle",
-             "hteam" : "Norwich",
-            "ateam" : "Newcastle",
-            "link": "https://ccddnn610002.koralast.com/UpFiles/2022/4/23/42/223996/360p.m3u8"
-        },
 
 
   
@@ -232,13 +231,13 @@
 {
             "league": "360 resolution",
             "date": "April 23",
-            "time": "3 - 1 360",
+            "time": "3 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "teams" : "Arsenal 3-1 Man U",
              "hteam" : "Arsenal",
             "ateam" : "Man U",
-            "link": "https://cdn40000.koralast.com/UpFiles/2022/4/23/42/223948/720p.m3u8"
+            "link": "https://ccddnn610003.koralast.com/UpFiles/2022/4/23/42/223962/360p.m3u8"
         },
 {
             "league": "Bundesliga",
