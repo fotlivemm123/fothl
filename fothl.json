@@ -385,7 +385,7 @@
             "teams" : "Real Betis 1-1 Valencia",
              "hteam" : "Real Betis",
             "ateam" : "Valencia",
-            "link": "https://cdn40000.koralast.com/UpFiles/2022/4/24/42/224161/360p.m3u8"
+            "link": "http://93.152.174.144:4000/play/btsport2/index.m3u8"
         },
 
 {
@@ -397,7 +397,7 @@
             "teams" : "PSG 1-1 Lens",
              "hteam" : "PSG",
             "ateam" : "Lens",
-            "link": "https://ccddnn610002.koralast.com/UpFiles/2022/4/23/42/224146/360p.m3u8"
+            "link": "http://93.152.174.144:4000/play/btsport2/index.m3u8"
         }
 
    ]
