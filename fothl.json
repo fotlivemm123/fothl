@@ -11,6 +11,61 @@
             "link": "https://cc002.koralast.com/UpFiles/2022/4/28/42/224568/720p.m3u8"
         },
 {
+            "league": "Premier League",
+            "date": "April 29",
+            "time": "1 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+            "teams" : "Man U 1-1 Chelsea",
+             "hteam" : "Man U",
+            "ateam" : "Chelsea",
+            "link": "https://cc002.koralast.com/UpFiles/2022/4/29/42/224614/720p.m3u8"
+        },
+    {
+            "league": "Europa League",
+            "date": "April 29",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548.png",
+            "teams" : "RB Leipzig 1-0 Rangers",
+             "hteam" : "RB Leipzig",
+            "ateam" : "Rangers",
+            "link": "https://cc002.koralast.com/UpFiles/2022/4/28/42/224600/720p.m3u8"
+        },
+    {
+            "league": "Europa League",
+            "date": "April 29",
+            "time": "0 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+            "teams" : "West Ham 1-2 Frankfurt",
+             "hteam" : "West Ham",
+            "ateam" : "Frankfurt",
+            "link": "https://cc002.koralast.com/UpFiles/2022/4/28/42/224603/360p.m3u8"
+        },
+    {
+            "league": "Europa Conf Semi-Final",
+            "date": "April 29",
+            "time": "3 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
+            "teams" : "Feyenoord 3-2 Marseille",
+             "hteam" : "Feyenoord",
+            "ateam" : "Marseille",
+            "link": "https://cc002.koralast.com/UpFiles/2022/4/28/34/224591/720p.m3u8"
+        },
+    {
+            "league": "Europa Conf Semi-Final",
+            "date": "April 29",
+            "time": "1 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+            "teams" : "Leicester 1-1 Roma",
+             "hteam" : "Leicester",
+            "ateam" : "Roma",
+            "link": "https://cc002.koralast.com/UpFiles/2022/4/28/42/224611/720p.m3u8"
+        },
+{
             "league": "Premiere league",
             "date": "Resolution 360",
             "time": "1 - 1",
