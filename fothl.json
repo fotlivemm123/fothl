@@ -32,6 +32,29 @@
             "ateam" : "Arsenal",
             "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/1/42/225012/720p.m3u8"
         },
+{
+            "league": "Premier League",
+            "date": "April 30",
+            "time": "0 - 4",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+            "teams" : "Leeds 0-0 Man City",
+             "hteam" : "Leeds",
+            "ateam" : "Man City",
+            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/4/30/34/224831/360p.m3u8"
+        },
+{
+            "league": "Premier League",
+            "date": "April 30",
+            "time": "0 -1 ",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "teams" : "Newcastle 0-1 Liverpool",
+             "hteam" : "Newcastle",
+            "ateam" : "Liverpool",
+            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/4/30/42/224723/360p.m3u8"
+        },
+
     {
             "league": "Laliga",
             "date": "May 1",
