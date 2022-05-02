@@ -55,6 +55,30 @@
             "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/4/30/42/224723/360p.m3u8"
         },
 
+{
+            "league": "Premier League",
+            "date": "April 30",
+            "time": "1 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
+            "teams" : "Watford 1-2 Burnley",
+             "hteam" : "Watford",
+            "ateam" : "Burnley",
+            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/4/30/34/224790/720p.m3u8"
+        },
+
+{
+            "league": "Premier League",
+            "date": "April 30",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+            "teams" : "Wolves 0-3 Brighton",
+             "hteam" : "Wolves",
+            "ateam" : "Brighton",
+            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/4/30/42/224783/360p.m3u8"
+        },
+
     {
             "league": "Laliga",
             "date": "May 1",
