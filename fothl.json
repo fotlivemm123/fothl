@@ -2,6 +2,28 @@
 {
             "league": "Champions League S-F",
             "date": "Resolution 360",
+            "time": "3 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+            "teams" : "Real Madrid 3-1 Man City",
+             "hteam" : "Real Madrid",
+            "ateam" : "Man City",
+            "link": "https://cc003.koralast.com/UpFiles/2022/5/5/42/225250/360p.m3u8"
+        },
+{
+            "league": "Champions League S-F",
+            "date": "Resolution 720",
+            "time": "3 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+            "teams" : "Real Madrid 3-1 Man City",
+             "hteam" : "Real Madrid",
+            "ateam" : "Man City",
+            "link": "https://cc003.koralast.com/UpFiles/2022/5/5/42/225250/720p.m3u8"
+        },
+{
+            "league": "Champions League S-F",
+            "date": "Resolution 360",
             "time": "2 - 3",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
