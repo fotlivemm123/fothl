@@ -56,7 +56,7 @@
         },
     {
             "league": "Premier League",
-            "date": "May 7",
+            "date": "HD",
             "time": "4 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
@@ -65,6 +65,42 @@
             "ateam" : "Man U",
             "link": "https://cc007.koralast.com/UpFiles/2022/5/7/42/225660/360p.m3u8"
         },
+{
+            "league": "Premier League",
+            "date": "HD",
+            "time": "1 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+            "teams" : "Liverpool 1-1 Tottenham",
+             "hteam" : "Liverpool",
+            "ateam" : "Tottenham",
+            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/7/42/225659/720p.m3u8"
+        },
+    
+    {
+            "league": "Premier League",
+            "date": "HD",
+            "time": "2 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
+            "teams" : "Chelsea 2-2 Wolves",
+             "hteam" : "Chelsea",
+            "ateam" : "Wolves",
+            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/7/42/225480/720p.m3u8"
+        },
+
+    {
+            "league": "Premier League",
+            "date": "May 7",
+            "time": "4 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "teams" : "Brighton 4-0 Man U",
+             "hteam" : "Brighton",
+            "ateam" : "Man U",
+            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/7/42/225586/720p.m3u8"
+        },
+
     {
             "league": "Bundesliga",
             "date": "May 7",
@@ -394,19 +430,6 @@
              "hteam" : "Aston Villa",
             "ateam" : "Norwich",
             "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/4/30/42/224779/720p.m3u8"
-        },
-
-{
-            "league": "Premier League",
-            "date": "Resolution 360",
-            "time": "1 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-            "teams" : "Man U 1-1 Chelsea",
-             "hteam" : "Man U",
-            "ateam" : "Chelsea",
-            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/4/28/34/224586/360p.m3u8"
         }
-
 
 ]
