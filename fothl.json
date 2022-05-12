@@ -109,17 +109,6 @@
         },
 
 {
-            "league": "Ligue 1",
-            "date": "May 12",
-            "time": "2 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
-            "teams" : "Nantes 2-1 Rennes",
-             "hteam" : "Nantes",
-            "ateam" : "Rennes",
-            "link": "0"
-        }
-{
             "league": "Laliga",
             "date": "May 10",
             "time": "0 - 3",
