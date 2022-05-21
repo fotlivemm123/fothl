@@ -359,14 +359,14 @@
 
 {
             "league": "Laliga",
-            "date": "May 10",
+            "date": "May ",
             "time": "0 - 3",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
             "teams" : "Valencia 0-3 Real Betis",
              "hteam" : "Valencia",
             "ateam" : "Real Betis",
-            "link": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/10/42/225917/360p.m3u8"
+            "link": "https:/vtvgo-live-vtv-token.akamaized.net/vtv6/hdntl=exp=1653214574~acl=%2f*~data=hdntl~hmac=49781a46335031164ea89ffd836c4308baf1cf045a321bff1c177a7b2707f7b3/vtv6@low.m3u8?hdnts=exp=1653128474~acl=/vtv6/*~hmac=1549007987662ee34f2c9d77f91ca4277f9077ee1a8124e839e1480dde7bc661"
         },
 
 {
