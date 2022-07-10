@@ -1,3 +1,13 @@
 [
-
+{
+            "league": "Club Friendly",
+            "date": "July 8",
+            "time": "3 - 5",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8165.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "teams" : "Nürnberg 3-5 Arsenal",
+             "hteam" : "Nürnberg",
+            "ateam" : "Arsenal",
+            "link": "https://cdn002022.koralast.com/UpFiles/2022/7/8/34/229167/360p.m3u8"
+        }
 ]
