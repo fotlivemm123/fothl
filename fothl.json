@@ -7,7 +7,7 @@
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
              "hteam" : "Dynamo",
             "ateam" : "Dortmund",
-            "link": "https://cdn002022.koralast.com/UpFiles/2022/7/9/42/229183/360p.m3u8"
+            "hllink" :[ {"quality": "1080P","link": "https://cdn002022.koralast.com/UpFiles/2022/7/9/42/229183/360p.m3u8"}]
         },
 {
             "league": "Club Friendly",
@@ -17,6 +17,6 @@
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
              "hteam" : "Nürnberg",
             "ateam" : "Arsenal",
-            "link": "https://cdn002022.koralast.com/UpFiles/2022/7/8/34/229167/360p.m3u8"
+            "hllink" :[ {"quality": "1080P","link": "https://cdn002022.koralast.com/UpFiles/2022/7/8/34/229167/360p.m3u8"}]
         }
 ]
