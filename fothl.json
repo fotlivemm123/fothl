@@ -3,11 +3,11 @@
             "league": "UEFA Women Euro 22",
             "date": "july10",
             "time": "5 - 1",
-            "himg": "France(W)",
-            "aimg": "Inaty(W)",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6325.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6326.png",
             "teams" : " 5-1 ",
-             "hteam" : "https://images.fotmob.com/image_resources/logo/teamlogo/6325.png",
-            "ateam" : "https://images.fotmob.com/image_resources/logo/teamlogo/6326.png",
+             "hteam" : "France(W)",
+            "ateam" : "Italy(W)",
             "hllink": [
     {
            "quality":"720",
