@@ -1,13 +1,13 @@
 [
 {
-            "league": "0",
-            "date": "0",
-            "time": "3 - 0",
-            "himg": "0",
-            "aimg": "0",
-            "teams" : " 3-0 ",
-             "hteam" : "0",
-            "ateam" : "0",
+            "league": "UEFA Women Euro 22",
+            "date": "july10",
+            "time": "5 - 1",
+            "himg": "France(W)",
+            "aimg": "Inaty(W)",
+            "teams" : " 5-1 ",
+             "hteam" : "https://images.fotmob.com/image_resources/logo/teamlogo/6325.png",
+            "ateam" : "https://images.fotmob.com/image_resources/logo/teamlogo/6326.png",
             "hllink": [
     {
            "quality":"720",
