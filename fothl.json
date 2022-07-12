@@ -1,5 +1,27 @@
 [
 {
+                 "league": "Club Friendly",
+                 "date": "July 12",
+                 "time": "0 - 4",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+                 "teams" : "Liverpool 0-0 Man United",
+                  "hteam" : "Liverpool",
+                 "ateam" : "Man United",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn002022.koralast.com/UpFiles/2022/7/12/42/229246/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn002022.koralast.com/UpFiles/2022/7/12/42/229246/720p.m3u8"
+          }
+]
+     },
+
+{
             "league": "UEFA Women EURO 2022",
             "date": "July 12",
             "time": "8 - 0",
