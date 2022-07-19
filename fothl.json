@@ -1,2 +1,23 @@
 [
+{
+            "league": "EURO GRP. D",
+            "date": "July 19",
+            "time": "3 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/159979_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",
+            "teams" : "1-1",
+             "hteam" : "Iceland",
+            "ateam" : "France",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn002022.koralast.com/UpFiles/2022/7/18/42/229543/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn002022.koralast.com/UpFiles/2022/7/18/42/229543/360p.m3u8"
+}
+]
+}
 ]
