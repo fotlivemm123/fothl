@@ -1,22 +1,28 @@
 [
 {
-            "league": "EURO GRP. D",
-            "date": "July 19",
-            "time": "3 - 0",
-            "himg": "https://3photos6.files.wordpress.com/2022/07/293139154_3254399698112055_6084922093940148145_n.jpg",
-            "aimg": "https://3photos6.files.wordpress.com/2022/07/293139154_3254399698112055_6084922093940148145_n.jpg",
-            "teams" : "1-1",
-             "hteam" : "Iceland",
-            "ateam" : "France",
+            "league": "Club Friendlies",
+            "date": "July 23",
+            "time": "2 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "teams" : "2 - 2",
+             "hteam" : "Man - U",
+            "ateam" : "Astron Villa",
             "hllink": [
 {
            "quality":"720",
-           "link":"https://cdn002022.koralast.com/UpFiles/2022/7/18/42/229543/720p.m3u8"
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/23/42/229753/720p.m3u8"
 },
 {
  
+       "quality":"480",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/23/42/229753/480p.m3u8"
+},
+                        ,
+{
+ 
        "quality":"360",
-         "link":"https://cdn002022.koralast.com/UpFiles/2022/7/18/42/229543/360p.m3u8"
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/23/42/229753/360p.m3u8"
 }
 ]
 }
