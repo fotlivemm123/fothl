@@ -2,6 +2,27 @@
 {
                  "league": "Club Friendly",
                  "date": "July 24",
+                 "time": "4 - 0",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+                 "teams" : "Arsenal 4-0 Chelsea",
+                  "hteam" : "Arsenal",
+                 "ateam" : "Chelsea",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/24/42/229794/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/24/42/229794/360p.m3u8"
+          }
+]
+     },
+{
+                 "league": "Club Friendly",
+                 "date": "July 24",
                  "time": "0 - 1",
                  "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
                  "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
