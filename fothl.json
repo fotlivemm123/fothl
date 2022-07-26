@@ -3,22 +3,174 @@
                  "league": "Club Friendly",
                  "date": "July 25",
                  "time": "2 - 6",
-                 "himg": "https://i.postimg.cc/WzwWVM5P/IMG-20220724-140020-699.jpg",
-                 "aimg": "https://i.postimg.cc/WzwWVM5P/IMG-20220724-140020-699.jpg",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6582_small.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
                  "teams" : "Gamba Osaka 2-6 PSG",
                   "hteam" : "Gamba Osaka",
                  "ateam" : "PSG",
                  "hllink": [
           {
                 "quality":"720",
-                "link":""
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/25/42/229891/720p.m3u8"
           },
          {
  
               "quality":"360",
-              "link":""
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/25/42/229891/360p.m3u8"
           }
 ]
+     },
+
+{
+                 "league": "Club Friendly",
+                 "date": "July 24",
+                 "time": "0 - 1",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+                 "teams" : "Real Madrid 0-1 Barcelona",
+                  "hteam" : "Real Madrid",
+                 "ateam" : "Barcelona",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/24/42/229811/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/24/42/229811/360p.m3u8"
+          }
+]
+     },
+
+
+{
+                 "league": "Club Friendly",
+                 "date": "July 24",
+                 "time": "4 - 0",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+                 "teams" : "Arsenal 4-0 Chelsea",
+                  "hteam" : "Arsenal",
+                 "ateam" : "Chelsea",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/24/42/229797/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/24/42/229797/360p.m3u8"
+          }
+]
+     },
+{
+                 "league": "Club Friendly",
+                 "date": "July 24",
+                 "time": "0 - 1",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+                 "teams" : "Bayern 0-1 Man City",
+                  "hteam" : "Bayern",
+                 "ateam" : "Man City",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/24/42/229793/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/24/42/229793/360p.m3u8"
+          }
      
+]
+},
+{
+            "league": "Club Friendlies",
+            "date": "July 23",
+            "time": "2 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+             "hteam" : "Man - U",
+            "ateam" : "Astron Villa",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/23/42/229753/720p.m3u8"
+},
+                        
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/23/42/229753/360p.m3u8"
+}
+]
+},
+            
+            {
+            "league": "Club Friendlies",
+            "date": "July 23",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6244_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+             "hteam" : "Red Diamond",
+            "ateam" : "PSG",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/23/42/229756/720p.m3u8"
+},
+                        
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/23/42/229756/360p.m3u8"
+}
+]
+},
+                  {
+            "league": "Club Friendlies",
+            "date": "July 22",
+            "time": "0 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+             "hteam" : "Dortmund",
+            "ateam" : "Villarreal",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/22/42/229726/720p.m3u8"
+},
+                        
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/22/42/229726/360p.m3u8"
+}
+]
+}
+            ,
+                  {
+            "league": "Club Friendlies",
+            "date": "July 21",
+            "time": "0 - 5",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+             "hteam" : "Leipzig",
+            "ateam" : "Liverpool",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/21/42/229677/720p.m3u8"
+},
+                        
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/21/42/229677/360p.m3u8"
+}
+]
 }
 ]
