@@ -1,5 +1,25 @@
 [
-
+{
+            "league": "Club Friendly",
+            "date": "July 30",
+            "time": "6 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "teams" : "Arsenal 6-0 Sevilla",
+             "hteam" : "Arsenal",
+            "ateam" : "Sevilla",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/34/230073/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/34/230073/360p.m3u8"
+}
+]
+},
 {
                  "league": "Club Friendly",
                  "date": "July 30",
