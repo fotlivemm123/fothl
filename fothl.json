@@ -1,4 +1,26 @@
 [
+
+{
+            "league": "Club Friendly",
+            "date": "July 30",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "teams" : "AT Madrid 1-0 Man United",
+             "hteam" : "AT Madrid",
+            "ateam" : "Man United",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/42/230085/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/42/230085/720p.m3u8"
+}
+]
+},
 {
             "league": "Club Friendly",
             "date": "July 30",
