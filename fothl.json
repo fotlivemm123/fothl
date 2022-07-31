@@ -1,6 +1,69 @@
 [
 {
             "league": "Club Friendly",
+            "date": "August 1",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+            "teams" : "Liverpool 0-3 Strasbourg",
+             "hteam" : "Liverpool",
+            "ateam" : "Strasbourg",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230253/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230253/360p.m3u8"
+}
+]
+},
+{
+            "league": "Super Cup Final",
+            "date": "August 1",
+            "time": "4 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "teams" : "PSG 4-0 Nantes",
+             "hteam" : "PSG",
+            "ateam" : "Nantes",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230250/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230250/360p.m3u8"
+}
+]
+},
+{
+            "league": "UEFA Women Euro Final",
+            "date": "July 31",
+            "time": "2 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
+            "teams" : "England (W) 2-1 Germany (W)",
+             "hteam" : "England (W)",
+            "ateam" : "Germany (W)",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230240/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230240/360p.m3u8"
+}
+]
+},
+{
+            "league": "Club Friendly",
             "date": "July 31",
             "time": "1 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
