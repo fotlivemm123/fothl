@@ -2,6 +2,27 @@
 {
             "league": "Club Friendly",
             "date": "July 31",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "teams" : "Real Madrid 2-0 Juventus",
+             "hteam" : "Real Madrid",
+            "ateam" : "Juventus",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230189/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230189/360p.m3u8"
+}
+]
+},
+{
+            "league": "Club Friendly",
+            "date": "July 31",
             "time": "0 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6514_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
