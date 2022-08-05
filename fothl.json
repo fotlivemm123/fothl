@@ -1,238 +1,42 @@
 [
-
-
-{
-            "league": "Super Cup Final",
-            "date": "August 1",
-            "time": "4 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-            "teams" : "PSG 4-0 Nantes",
-             "hteam" : "PSG",
-            "ateam" : "Nantes",
-            "hllink": [
-{
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230250/720p.m3u8"
-},
-{
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230250/360p.m3u8"
-}
-]
-},
-{
-            "league": "UEFA Women Euro Final",
-            "date": "July 31",
-            "time": "2 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
-            "teams" : "England (W) 2-1 Germany (W)",
-             "hteam" : "England (W)",
-            "ateam" : "Germany (W)",
-            "hllink": [
-{
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230240/720p.m3u8"
-},
-{
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230240/360p.m3u8"
-}
-]
-},
-{
-            "league": "Club Friendly",
-            "date": "July 31",
-            "time": "2 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "teams" : "Real Madrid 2-0 Juventus",
-             "hteam" : "Real Madrid",
-            "ateam" : "Juventus",
-            "hllink": [
-{
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230189/720p.m3u8"
-},
-{
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230189/360p.m3u8"
-}
-]
-},
-{
-            "league": "Club Friendly",
-            "date": "July 31",
-            "time": "0 - 2",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6514_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "teams" : "NY Red Bull 0-2 Barcelona",
-             "hteam" : "NY Red Bull",
-            "ateam" : "Barcelona",
-            "hllink": [
-{
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230181/720p.m3u8"
-},
-{
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/31/42/230181/360p.m3u8"
-}
-]
-},
-{
-            "league": "Super Cup Final",
-            "date": "July 31",
-            "time": "3 - 5",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "teams" : "RB Leipzig 3-5 Bayern",
-             "hteam" : "RB Leipzig",
-            "ateam" : "Bayern",
-            "hllink": [
-{
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/34/230163/720p.m3u8"
-},
-{
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/34/230163/360p.m3u8"
-}
-]
-},
-{
-            "league": "Club Friendly",
-            "date": "July 31",
-            "time": "0 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "teams" : "Tottenham 0-1 Roma",
-             "hteam" : "Tottenham",
-            "ateam" : "Roma",
-            "hllink": [
-{
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/42/230151/720p.m3u8"
-},
-{
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/42/230151/360p.m3u8"
-}
-]
-},
-{
-            "league": "Community Shield Final",
-            "date": "July 30",
-            "time": "3 - 1",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "teams" : "Liverpool 3-1 Man City",
-             "hteam" : "Liverpool",
-            "ateam" : "Man City",
-            "hllink": [
-{
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/42/230130/720p.m3u8"
-},
-{
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/42/230130/360p.m3u8"
-}
-]
-},
-
-{
-            "league": "Club Friendly",
-            "date": "July 30",
-            "time": "6 - 0",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "teams" : "Arsenal 6-0 Sevilla",
-             "hteam" : "Arsenal",
-            "ateam" : "Sevilla",
-            "hllink": [
-{
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/42/230079/720p.m3u8"
-},
-{
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/30/42/230079/360p.m3u8"
-}
-]
-},
-{
-                 "league": "Club Friendly",
-                 "date": "July 30",
-                 "time": "1 - 3",
-                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-                 "teams" : "Udinese 1-3 Chelsea",
-                  "hteam" : "Udinese",
-                 "ateam" : "Chelsea",
+ {
+                 "league": "Premier League",
+                 "date": "August 6",
+                 "time": "0 - 2",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+                 "teams" : "Crystal Palace 0-2 Arsenal",
+                  "hteam" : "Crystal Palace",
+                 "ateam" : "Arsenal",
                  "hllink": [
           {
                 "quality":"720",
-                "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/29/42/230057/720p.m3u8"
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230425/720p.m3u8"
           },
          {
  
               "quality":"360",
-              "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/29/42/230057/360p.m3u8"
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230425/360p.m3u8"
           }
-       ]
-     },
-{
-                 "league": "Club Friendly",
-                 "date": "July 30",
-                 "time": "0 - 3",
-                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9753_small.png",
-                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-                 "teams" : "1860 München 0-3 Dortmund",
-                  "hteam" : "1860 München",
-                 "ateam" : "Dortmund",
-                 "hllink": [
-          {
-                "quality":"720",
-                "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/29/42/230062/720p.m3u8"
-          },
-         {
- 
-              "quality":"360",
-              "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/29/42/230062/360p.m3u8"
-          }
-]
      },
 
-{
-                 "league": "Club Friendly",
-                 "date": "July 28",
-                 "time": "1 - 0",
-                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
-                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-                 "teams" : "Salzburg 1-0 Liverpool",
-                  "hteam" : "Salzburg",
-                 "ateam" : "Liverpool",
+                 "league": "Bundesliga",
+                 "date": "April 6",
+                 "time": "1 - 6",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+                 "teams" : "Frankfurt 1-6 Bayern",
+                  "hteam" : "Frankfurt",
+                 "ateam" : "Bayern",
                  "hllink": [
           {
                 "quality":"720",
-                "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/27/42/229981/720p.m3u8"
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230418/720p.m3u8"
           },
          {
  
               "quality":"360",
-              "link":"https://cdn004440444.koralast.com/UpFiles/2022/7/27/42/229981/720p.m3u8"
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230418/360p.m3u8"
           }
-]
      }
-
 ]
