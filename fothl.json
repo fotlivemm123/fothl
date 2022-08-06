@@ -20,6 +20,27 @@
           }
 ]
      },
+{
+                 "league": "Premier League",
+                 "date": "August 6",
+                 "time": "4 - 1",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
+                 "teams" : "Tottenham 4-1 Southampton",
+                  "hteam" : "Tottenham",
+                 "ateam" : "Southampton",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230506/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230506/360p.m3u8"
+          }
+]
+     },
  {
                  "league": "Premier League",
                  "date": "August 6",
