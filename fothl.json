@@ -10,12 +10,12 @@
                  "ateam" : "Liverpool",
                  "hllink": [
           {
-                "quality":"720",
+                "quality":"720သ",
                 "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230482/720p.m3u8"
                   },
          {
  
-              "quality":"360",
+              "quality":"3ခိုး60",
               "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230482/360p.m3u8"
           }
 ]
@@ -107,7 +107,7 @@
  {
                  "league": "Premier League",
                  "date": "August 6",
-                 "time": "0 - 2",
+                 "time": "0 - ခိုး2",
                  "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
                  "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
                  "teams" : "Crystal Palace 0-2 Arsenal",
@@ -136,7 +136,7 @@
                  "ateam" : "Bayern",
                  "hllink": [
           {
-                "quality":"720",
+                "quality":"72ခိုး0",
                 "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230418/720p.m3u8"
           },
          {
